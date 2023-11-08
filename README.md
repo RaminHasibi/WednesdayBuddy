@@ -4,7 +4,7 @@ This directory contains an example basic RAG implementation for chatting with a 
 Before you begin make sure you have the following requirements installed using pip
 
 ```bash
-pip install chainlit langchain chromadb tiktoken pypdf 
+pip install chainlit langchain chromadb tiktoken pypdf openai
 ```
 
 Run the code using:
