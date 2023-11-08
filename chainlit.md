@@ -1,0 +1,1 @@
+### Welcome to WednesdayBuddy, your AI assitant. RAG rules :D 
